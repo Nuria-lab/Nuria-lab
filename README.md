@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/ella
 - :information_desk_person: Talk to me in English/Español/Català
 - :point_right: Find Me at [LinkedIn](https://www.linkedin.com/in/nuria-torres-096b2b200)
+- :bar_chart: Some [viz](https://public.tableau.com/app/profile/nuriaa.lab)
 
 ---
 ### :triangular_ruler: Want some Python classes? Sign up for my free course: 
