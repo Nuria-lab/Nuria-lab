@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Raspberry Py and Big Data
 - 💬 Ask me about Python, SQL, Raspberry
 - 😄 Pronouns: she/ella
--  :information_desk_person: Talk to me in English/Español/Català
+- :information_desk_person: Talk to me in English/Español/Català
 - :point_right: Find Me at [LinkedIn](https://www.linkedin.com/in/nuria-torres-096b2b200)
+
+---
+### :triangular_ruler: Want some Python classes? Sign up for my course, elegible for certificate
+- Python Classes in Spanish [Google Classroom](https://classroom.google.com/u/0/w/NDM3MjQ1OTc5OTQ0/t/all) 
+
+---
 
 <div align="left">
     <h3> :wrench: Languages and Tools  </h3>
