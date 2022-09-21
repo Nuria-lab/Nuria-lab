@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### :cat: About Me :
-- 🔭 I’m currently working on Raspberry Py and Big Data
+- 🔭 I’m currently working on Raspberry Pi and Big Data
 - 💬 Ask me about Python, SQL, Raspberry
 - 😄 Pronouns: she/ella
 - :information_desk_person: Talk to me in English/Español/Català
