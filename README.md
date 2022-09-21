@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :point_right: Find Me at [LinkedIn](https://www.linkedin.com/in/nuria-torres-096b2b200)
 
 ---
-### :triangular_ruler: Want some Python classes? Sign up for my free course elegible for certificate from [Facultad de Ingeniería - UNLP](https//:www.ing.unlp.edu.ar)
+### :triangular_ruler: Want some Python classes? Sign up for my free course: 
 - Python Classes in Spanish [Google Classroom](https://classroom.google.com/u/0/w/NDM3MjQ1OTc5OTQ0/t/all), elegible for certificate from [Facultad de Ingeniería - UNLP](https//:www.ing.unlp.edu.ar)
 
 ---
