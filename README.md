@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 ---
 ### :cat: About Me :
 - 🔭 I’m currently working on Raspberry Pi and Big Data // Operation and control design // 
+- 🛠️ Increasing the use of 4.0 industries technology on 🇦🇷
 - 💬 Ask me about Python, SQL, Raspberry
 - 😄 Pronouns: she/ella
 - :information_desk_person: Talk to me in English/Español/Català
