@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 ---
 ### :cat: About Me :
-- 🔭 I’m currently working on Raspberry Pi and Big Data // Operation and control design // 
+- 🔭 I’m currently working on monitoring data and Big Data // Operation and control design // 
 - 🛠️ Increasing the use of 4.0 industries technology in 🇦🇷
 - 💬 Ask me about Python, SQL, Raspberry
 - 😄 Pronouns: she/ella
